@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SpaceTrade-9120.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.16\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Temp\SpaceTrade2\SpaceTrade\Intermediate\Build\Win64\UE4Editor\Development\SpaceTrade\Inventory.cpp.obj"
+"C:\Temp\SpaceTrade2\SpaceTrade\Intermediate\Build\Win64\UE4Editor\Development\SpaceTrade\InventoryItem.cpp.obj"
+"C:\Temp\SpaceTrade2\SpaceTrade\Intermediate\Build\Win64\UE4Editor\Development\SpaceTrade\ItemDatabase.cpp.obj"
+"C:\Temp\SpaceTrade2\SpaceTrade\Intermediate\Build\Win64\UE4Editor\Development\SpaceTrade\ItemInfo.cpp.obj"
+"C:\Temp\SpaceTrade2\SpaceTrade\Intermediate\Build\Win64\UE4Editor\Development\SpaceTrade\MenuStateMachine.cpp.obj"
+"C:\Temp\SpaceTrade2\SpaceTrade\Intermediate\Build\Win64\UE4Editor\Development\SpaceTrade\SpaceTrade.cpp.obj"
+"C:\Temp\SpaceTrade2\SpaceTrade\Intermediate\Build\Win64\UE4Editor\Development\SpaceTrade\SpaceTradeCharacter.cpp.obj"
+"C:\Temp\SpaceTrade2\SpaceTrade\Intermediate\Build\Win64\UE4Editor\Development\SpaceTrade\SpaceTradeGameInstance.cpp.obj"
+"C:\Temp\SpaceTrade2\SpaceTrade\Intermediate\Build\Win64\UE4Editor\Development\SpaceTrade\SpaceTradeGameMode.cpp.obj"
+"C:\Temp\SpaceTrade2\SpaceTrade\Intermediate\Build\Win64\UE4Editor\Development\SpaceTrade\SpaceTrade.generated.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.16\Engine\Intermediate\Build\Win64\UE4Editor\Development\SpaceTrade\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.16\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Temp\SpaceTrade2\SpaceTrade\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SpaceTrade-9120.lib"

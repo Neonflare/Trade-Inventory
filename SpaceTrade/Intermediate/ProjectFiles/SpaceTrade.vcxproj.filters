@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\SpaceTrade.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{7BA3CAF3-88B5-45B7-9334-8EBBD7E0F580}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\SpaceTrade.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\SpaceTradeEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{B29978ED-6F5A-4FAC-A8E8-E62151C5EAAC}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\SpaceTrade">
+			<UniqueIdentifier>{36669E54-D893-4665-8EA7-3FCD78069967}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\SpaceTrade\Inventory.cpp">
+			<Filter>Source\SpaceTrade</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SpaceTrade\Inventory.h">
+			<Filter>Source\SpaceTrade</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\SpaceTrade\InventoryComponent.cpp">
+			<Filter>Source\SpaceTrade</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SpaceTrade\InventoryComponent.h">
+			<Filter>Source\SpaceTrade</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\SpaceTrade\InventoryItem.cpp">
+			<Filter>Source\SpaceTrade</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SpaceTrade\InventoryItem.h">
+			<Filter>Source\SpaceTrade</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\SpaceTrade\ItemDatabase.cpp">
+			<Filter>Source\SpaceTrade</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SpaceTrade\ItemDatabase.h">
+			<Filter>Source\SpaceTrade</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\SpaceTrade\ItemHandler.cpp">
+			<Filter>Source\SpaceTrade</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SpaceTrade\ItemHandler.h">
+			<Filter>Source\SpaceTrade</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\SpaceTrade\ItemInfo.cpp">
+			<Filter>Source\SpaceTrade</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SpaceTrade\ItemInfo.h">
+			<Filter>Source\SpaceTrade</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\SpaceTrade\MenuStateMachine.cpp">
+			<Filter>Source\SpaceTrade</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SpaceTrade\MenuStateMachine.h">
+			<Filter>Source\SpaceTrade</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\SpaceTrade\SpaceTrade.Build.cs">
+			<Filter>Source\SpaceTrade</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\SpaceTrade\SpaceTrade.cpp">
+			<Filter>Source\SpaceTrade</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SpaceTrade\SpaceTrade.h">
+			<Filter>Source\SpaceTrade</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\SpaceTrade\SpaceTradeCharacter.cpp">
+			<Filter>Source\SpaceTrade</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SpaceTrade\SpaceTradeCharacter.h">
+			<Filter>Source\SpaceTrade</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\SpaceTrade\SpaceTradeGameInstance.cpp">
+			<Filter>Source\SpaceTrade</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SpaceTrade\SpaceTradeGameInstance.h">
+			<Filter>Source\SpaceTrade</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\SpaceTrade\SpaceTradeGameMode.cpp">
+			<Filter>Source\SpaceTrade</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\SpaceTrade\SpaceTradeGameMode.h">
+			<Filter>Source\SpaceTrade</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

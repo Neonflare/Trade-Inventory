@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SpaceTrade-1572-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.16\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.NonOptimized.h.obj"
+"C:\Temp\Spacetrade new\SpaceTrade\Intermediate\Build\Win64\UE4Editor\DebugGame\SpaceTrade\Inventory.cpp.obj"
+"C:\Temp\Spacetrade new\SpaceTrade\Intermediate\Build\Win64\UE4Editor\DebugGame\SpaceTrade\InventoryComponent.cpp.obj"
+"C:\Temp\Spacetrade new\SpaceTrade\Intermediate\Build\Win64\UE4Editor\DebugGame\SpaceTrade\InventoryItem.cpp.obj"
+"C:\Temp\Spacetrade new\SpaceTrade\Intermediate\Build\Win64\UE4Editor\DebugGame\SpaceTrade\ItemDatabase.cpp.obj"
+"C:\Temp\Spacetrade new\SpaceTrade\Intermediate\Build\Win64\UE4Editor\DebugGame\SpaceTrade\ItemHandler.cpp.obj"
+"C:\Temp\Spacetrade new\SpaceTrade\Intermediate\Build\Win64\UE4Editor\DebugGame\SpaceTrade\ItemInfo.cpp.obj"
+"C:\Temp\Spacetrade new\SpaceTrade\Intermediate\Build\Win64\UE4Editor\DebugGame\SpaceTrade\MenuStateMachine.cpp.obj"
+"C:\Temp\Spacetrade new\SpaceTrade\Intermediate\Build\Win64\UE4Editor\DebugGame\SpaceTrade\SpaceTrade.cpp.obj"
+"C:\Temp\Spacetrade new\SpaceTrade\Intermediate\Build\Win64\UE4Editor\DebugGame\SpaceTrade\SpaceTradeCharacter.cpp.obj"
+"C:\Temp\Spacetrade new\SpaceTrade\Intermediate\Build\Win64\UE4Editor\DebugGame\SpaceTrade\SpaceTradeGameInstance.cpp.obj"
+"C:\Temp\Spacetrade new\SpaceTrade\Intermediate\Build\Win64\UE4Editor\DebugGame\SpaceTrade\SpaceTradeGameMode.cpp.obj"
+"C:\Temp\Spacetrade new\SpaceTrade\Intermediate\Build\Win64\UE4Editor\DebugGame\SpaceTrade\SpaceTrade.generated.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.16\Engine\Intermediate\Build\Win64\UE4Editor\Development\SpaceTrade\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.16\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Temp\Spacetrade new\SpaceTrade\Intermediate\Build\Win64\UE4Editor\DebugGame\UE4Editor-SpaceTrade-1572-Win64-DebugGame.lib"

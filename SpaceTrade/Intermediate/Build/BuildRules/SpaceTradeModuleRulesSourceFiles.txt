@@ -1,0 +1,3 @@
+C:\Temp\SpaceTrade\SpaceTrade\Source\SpaceTrade\SpaceTrade.Build.cs
+C:\Temp\SpaceTrade\SpaceTrade\Source\SpaceTrade.Target.cs
+C:\Temp\SpaceTrade\SpaceTrade\Source\SpaceTradeEditor.Target.cs
